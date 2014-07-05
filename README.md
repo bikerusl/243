@@ -19,7 +19,7 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 
 ### Screenshot
 
-[![Screenshot](http://243game.com/243game.png)](http://243game.com/243game.png)
+[![Screenshot](http://243game.com/243screen.png)](http://243game.com/243screen.png)
 
 That screenshot is fake, by the way. I never reached 243 :smile:
 
