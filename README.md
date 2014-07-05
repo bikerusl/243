@@ -1,21 +1,21 @@
-# 2048
-A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
+# 243 Game
+A small clone of [1024](https://play.google.com/store/apps/details?id=com.Misho.game1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+Made just for fun. [Play it here!](http://243game.com)
 
 ### Contributions
 
- - [TimPetricola](https://github.com/TimPetricola) added best score storage
- - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
+ - [Gabriele Cirulli](https://github.com/gabrielecirulli) added best score storage
+ - [Harrison Gentry](https://github.com/hgentry) Made 5x5 2048 game
  - [elektryk](https://github.com/elektryk) made swipes work on Windows Phone
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
 ### Screenshot
 
-[![Screenshot](http://pictures.gabrielecirulli.com/2048-20140309-234100.png)](http://pictures.gabrielecirulli.com/2048-20140309-234100.png)
+[![Screenshot](http://243game.com/243game.png)](http://243game.com/243game.png)
 
-That screenshot is fake, by the way. I never reached 2048 :smile:
+That screenshot is fake, by the way. I never reached 243 :smile:
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
