@@ -7,7 +7,7 @@ Made just for fun. [Play it here!](http://243game.com)
 
  - [Gabriele Cirulli](https://github.com/gabrielecirulli) added best score storage
  - [Harrison Gentry](https://github.com/hgentry) Made 5x5 2048 game
- - [elektryk](https://github.com/elektryk) made swipes work on Windows Phone
+ - [Misho M. Petkovic](https://twitter.com/mishomp) made score shaning buttons.
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
