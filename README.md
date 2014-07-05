@@ -11,6 +11,12 @@ Made just for fun. [Play it here!](http://243game.com)
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
+### Plans
+- Need make restart button
+- Create the possibility to continue playing
+- Android version of game will be soon
+
+
 ### Screenshot
 
 [![Screenshot](http://243game.com/243game.png)](http://243game.com/243game.png)
