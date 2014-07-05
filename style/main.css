@@ -1,14 +1,13 @@
-@import url(fonts/clear-sans.css);
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
-  color: #776e65;
+  background: #000;
+  color: #FFF;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
 body {
-  margin: 80px 0; }
+  margin: 20px 0; }
 
 .heading:after {
   content: "";
@@ -16,7 +15,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 27px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -58,7 +57,7 @@ h1.title {
   font-size: 25px;
   height: 25px;
   line-height: 47px;
-  font-weight: bold;
+  font-weight: bold; 
   border-radius: 3px;
   color: white;
   margin-top: 8px;
@@ -118,6 +117,20 @@ hr {
 .container {
   width: 500px;
   margin: 0 auto; }
+#social-buttons { display: block; margin: 10px auto;
+    transition:             opacity 1000ms ease;
+        -moz-transition:    opacity 1000ms ease;
+        -ms-transition:     opacity 1000ms ease;
+        -o-transition:      opacity 1000ms ease;
+        -webkit-transition: opacity 1000ms ease;
+}
+
+#social-buttons .social { list-style: none; margin: 0px; padding: 0; }
+#social-buttons .social li {display: inline-block; margin-left: 5px;   text-align: center;
+    vertical-align: top; }
+.fade {
+    opacity: 0 !important;
+}
 
 @-webkit-keyframes fade-in {
   0% {
@@ -145,7 +158,7 @@ hr {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  background: #bbada0;
+  background: #000;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -160,7 +173,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(221, 221, 221, 0.5);
+    background: rgba(255, 255, 100, 0.5);
     z-index: 100;
     text-align: center;
     -webkit-animation: fade-in 800ms ease 1200ms;
@@ -332,6 +345,7 @@ hr {
 
 .tile {
   position: absolute;
+  color: #B60033;
   -webkit-transition: 100ms ease-in-out;
   -moz-transition: 100ms ease-in-out;
   transition: 100ms ease-in-out;
@@ -342,16 +356,18 @@ hr {
     border-radius: 3px;
     background: #dddddd;
     text-align: center;
-    font-weight: bold;
+/*    font-weight: bold; */
     z-index: 10;
     font-size: 55px; }
   .tile.tile-3 .tile-inner {
-    background: #d8c1d3; }
+    background: #ede0c8;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-9 .tile-inner {
-    background: #bcd7de; }
+    color: #f9f6f2;
+    background: #B60033; }
   .tile.tile-27 .tile-inner {
     color: #f9f6f2;
-    background: #ca96c3; }
+    background: #801638; }
   .tile.tile-81 .tile-inner {
     color: #f9f6f2;
     background: #83aec1; }
@@ -553,7 +569,7 @@ hr {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -moz-user-select: none;
-    background: #bbada0;
+    background: #000;
     border-radius: 6px;
     width: 280px;
     height: 280px;
