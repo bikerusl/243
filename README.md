@@ -5,7 +5,7 @@ Made just for fun. [Play it here!](http://243game.com)
 
 ### Contributions
 
- - [Gabriele Cirulli](https://github.com/gabrielecirulli) added best score storage
+ - [Gabriele Cirulli](https://github.com/gabrielecirulli) Made 2048 game
  - [Harrison Gentry](https://github.com/hgentry) Made 5x5 2048 game
  - [Misho M. Petkovic](https://twitter.com/mishomp) made design and score shaning buttons.
 
