@@ -15,8 +15,8 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 
 ### Plans
 - Need make restart button - DONE
-- Create the possibility to continue playing
-- Android version of game will be soon
+- Create the possibility to continue playing DONE
+- Android version DONE
 
 
 ### Screenshot
